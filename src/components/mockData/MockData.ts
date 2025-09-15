@@ -213,37 +213,37 @@ export const mockAccounts: Account[] = [
     },
     transaction_history: [
       {
-        dateTime: 'September 14, 2025',
-        description: 'Transfer from Naomi Caldwell - XXXXXX7924',
+        dateTime: 'September 1, 2025',
+        description: 'Transfer from msc shipping company - XXXXXX7924',
         status: 'Success',
         amount_usd: 50000.0
       },
       {
-        dateTime: 'September 13, 2025',
+        dateTime: 'August 30, 2025',
         description: 'Transfer from Liam Wilson - XXXXXX34345',
         status: 'Success',
         amount_usd: 25000.0
       },
       {
-        dateTime: 'September 11, 2025',
+        dateTime: 'August 27, 2025',
         description: 'Transfer from Charlotte Clark - XXXXXX9376',
         status: 'Success',
         amount_usd: 67000.0
       },
       {
-        dateTime: 'September 10, 2025',
+        dateTime: 'August 24, 2025',
         description: 'Transfer from Elijah Lewis - XXXXXX8377',
         status: 'Success',
         amount_usd: 2500.0
       },
       {
-        dateTime: 'September 9, 2025',
+        dateTime: 'August 18, 2025',
         description: 'Transfer from Noah Hall - XXXXXX3749',
         status: 'Success',
         amount_usd: 550.0
       },
       {
-        dateTime: 'September 8, 2025',
+        dateTime: 'August 15, 2025',
         description: 'Transfer from Harris Benjamin - XXXXXX6254',
         status: 'Success',
         amount_usd: 1250.0
